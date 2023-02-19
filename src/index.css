@@ -1,6 +1,9 @@
-body {
-    padding: 0;
-    margin: 0;
+/* body {
+    font-family: 'Roboto', sans-serif;
+  background-color: #4c43d4;
+  color: #fff;
+  padding: 0;
+  margin: 0;
   }
   
   button {
@@ -11,9 +14,4 @@ body {
   button:hover{
     cursor: pointer;
   }
-  .App {
-    font-size: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
+   */
